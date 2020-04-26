@@ -1,3 +1,2 @@
 # YouTube_Videos_Analysis
-An analysis based on the predicted amount of likes, views, dislikes and comment counts on future YouTube videos in the U.S
-ok
+An analysis on what videos will be the most trending based on the amount of engagement (likes, dislikes, views, comment count) it recieves.
