@@ -1,3 +1,2 @@
-# YouTube_Videos_Analysis
-An analysis on what videos will be the most trending based on the amount of engagement (likes, dislikes, views, comment count) it recieves.
-An analysis on the relationships between each column and using that finding to predict the amount of likes a youtube video will get from it's amount of views and comment counts it recieves.  
+# YouTube_Trending_Videos_Analysis
+An analysis on the amount of engagement (likes, dislike, views, comment count) Youtube Trending videos get and the relationship between each of these variables.
