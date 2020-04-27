@@ -2,23 +2,25 @@
 ![](images/YouTube%20Logo.png)
 
 An analysis on the amount of engagement (likes, dislike, views, comment count) Youtube Trending videos get and the relationship between each of these variables.
+
 ## Problem Statement
-How does the amount of engagement correlate with one another. Can we predict the amount of likes based the on the views that a video recieves? 
+Can we predict the amount of likes based the on the views that a video recieves? And from these datas, can we predict the genre of that video? 
 ## Text Findings
+
 ## Instructions to run your code
 ### Special libraries needed to run code: 
+#### Libraries: Data Visualizations
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt  # Data visualization libraries
+import matplotlib.pyplot as plt  
 import seaborn as sns  
-
+#### Libraries: Linear Regression
 from sklearn.linear_model import LinearRegression 
-
+#### Libraries: Decision Tree
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier # import decision tree classifer 
 from sklearn.model_selection import train_test_split # import train_test_split function
 from sklearn import metrics # import scikit-learn metrics module for accuracy calculation 
-
 from sklearn.externals.six import StringIO
 from IPython.display import Image
 from sklearn.tree import export_graphviz
