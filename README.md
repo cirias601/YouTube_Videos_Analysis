@@ -3,6 +3,7 @@
 
 An analysis on the amount of engagement (likes, dislike, views, comment count) Youtube Trending videos get and the relationship between each of these variables.
 ## Problem Statement
+How does the amount of engagement correlate with one another. Can we predict the amount of likes based the on the views that a video recieves? 
 ## Text Findings
 ## Instructions to run your code
 ### Special libraries needed to run code: 
