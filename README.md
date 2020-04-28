@@ -1,5 +1,5 @@
 # YouTube_Trending_Videos_Analysis
-![](images/YouTube%20Logo.png)
+![](images/YouTube%20Logo%202.png)
 
 An analysis on the amount of engagement (likes, dislike, views, comment count) Youtube Trending videos get and the relationship between each of these datas.
 
@@ -36,7 +36,7 @@ These last four libraries are used to make the decision tree visualizations.
 
 ## Visualizations
 Pair Plot: 
-This shows the relationship between likes, views, dislikes, and comment count
+This shows the relationship between likes, views, dislikes, and comment count.
 
 ![](images/Youtube%20Trending%20Videos%20PairPlot.png)
 
