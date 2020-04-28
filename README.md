@@ -35,3 +35,13 @@ import pydotplus
 These last four libraries are used to make the decision tree visualizations. 
 
 ## Visualizations
+Pair Plot: 
+This shows the relationship between likes, views, dislikes, and comment count
+
+![](images/Youtube%20Trending%20Videos%20PairPlot.png)
+
+Decision Tree:
+This tree classfies youtube videos by genre based on the amount of engagement it recieves. 
+
+![](images/Youtube_Trending_Videos_Decision_Tree_Subset.png)
+
