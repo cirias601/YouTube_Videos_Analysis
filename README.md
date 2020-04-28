@@ -1,5 +1,5 @@
 # YouTube_Trending_Videos_Analysis
-![](images/YouTube%20Logo%202.png)
+![](images/YouTube%20Logo.png)
 
 An analysis on the amount of engagement (likes, dislike, views, comment count) Youtube Trending videos get and the relationship between each of these datas.
 
